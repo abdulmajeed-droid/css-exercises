@@ -1,0 +1,18 @@
+.lion {
+    background-color: rgb(255, 166, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.tiger {
+    font-size: 24px;
+}
+
+#dun {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#kin {
+    background-color: rgb(0, 255, 0);
+    font-weight: bold;
+}
